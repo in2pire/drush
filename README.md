@@ -1,5 +1,6 @@
 DESCRIPTION
 -----------
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/in2pire/drush?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Drush is a command line shell and Unix scripting interface for Drupal.  If you are unfamiliar with shell scripting, reviewing the documentation for your shell (e.g. man bash) or reading an online tutorial (e.g. search for "bash tutorial") will help you get the most out of Drush.
 
